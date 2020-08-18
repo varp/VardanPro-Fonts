@@ -1,7 +1,14 @@
 # VardanPro Fonts
 Custom compiled fonts based on Iosevka font. 
 
-Fonts compiled with three character's styles:
+![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro.png)
+![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-light.png)
+![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-lucida-light.png)
+![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-monaco-light.png)
+![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-ubuntu-light.png)
+
+
+Fonts compiled with four character's styles:
 
 1. Standard Iosevka - **Iosevka VardanPro**
 2. Monaco Style - **Iosevka VardanPro Monaco Style**
@@ -25,9 +32,6 @@ There are also `Light` version of fonts with weight set to 300 by default:
 
 They are very usefull to being installed as separate fonts in caeses when of IDE
 like JetBrains' ones where editor does not allow to choose weight of font.
-
-## Screenshots
-
 
 ## Custom config
 To see the custom config used for building of fonts go
