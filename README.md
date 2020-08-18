@@ -6,6 +6,7 @@ Fonts compiled with three character's styles:
 1. Standard Iosevka - **Iosevka VardanPro**
 2. Monaco Style - **Iosevka VardanPro Monaco Style**
 3. Lucida Style - **Iosevka VardanPro Lucida Style**
+4. Ubuntu Mono Style - **Iosevka VardanPro Ubuntu Style**
 
 All fonts compiled with full set of weights and slopes and customs enabled by default:
 
@@ -20,6 +21,7 @@ There are also `Light` version of fonts with weight set to 300 by default:
 1. **Iosevka VardanPro Light**
 2. **Iosevka VardanPro Monaco Light**
 3. **Iosevka VardanPro Lucida Light**
+4. **Iosevka VardanPro Ubuntu Light**
 
 They are very usefull to being installed as separate fonts in caeses when of IDE
 like JetBrains' ones where editor does not allow to choose weight of font.
