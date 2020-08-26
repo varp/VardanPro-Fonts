@@ -30,7 +30,7 @@ There are also `Light` version of fonts with weight set to 300 by default:
 3. **Iosevka VardanPro Lucida Light**
 4. **Iosevka VardanPro Ubuntu Light**
 
-They are very useful to be installed as separate fonts in caeses when of IDE
+They are very useful to be installed as separate fonts in caeses when IDE
 like JetBrains' ones where editor does not allow to choose weight of font.
 
 ## Custom config
