@@ -7,7 +7,7 @@ Custom compiled fonts based on Iosevka font.
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-monaco-light.png)
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-ubuntu-light.png)
 
-All fonts compiled with full set of weights and slopes and customs enabled by default:
+All fonts compiled with a full set of weights and slopes and customs enabled by default:
 
 - "ligset-php" -  default ligatures set to PHP
 - "v-asterisk-low" - asterisk vertically centred in a row
