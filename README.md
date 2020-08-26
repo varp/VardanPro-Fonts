@@ -7,6 +7,13 @@ Custom compiled fonts based on Iosevka font.
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-monaco-light.png)
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-ubuntu-light.png)
 
+All fonts compiled with full set of weights and slopes and customs enabled by default:
+
+- "ligset-php" -  default ligatures set to PHP
+- "v-asterisk-low" - asterisk vertically centred in a row
+- "v-ampersand-upper-open" - ampersand upper opened version of &
+- "v-dollar-open" - open version of $
+- "cv67" - lower bar slanted version of <= and >= 
 
 Fonts compiled with four character's styles:
 
@@ -15,15 +22,7 @@ Fonts compiled with four character's styles:
 3. Lucida Style - **Iosevka VardanPro Lucida Style**
 4. Ubuntu Mono Style - **Iosevka VardanPro Ubuntu Style**
 
-All fonts compiled with full set of weights and slopes and customs enabled by default:
-
-- "ligset-php" -  default ligatures set to PHP
-- "v-asterisk-low" - asterisk verticaly centred in row
-- "v-ampersand-upper-open" - ampersand upper opened version of &
-- "v-dollar-open" - open version of $
-- "cv67" - lower bar slanted version of <= and >= 
-
-There are also `Light` version of fonts with weight set to 300 by default:
+There is also `Light` version of fonts with weight set to 300 by default:
 
 1. **Iosevka VardanPro Light**
 2. **Iosevka VardanPro Monaco Light**
