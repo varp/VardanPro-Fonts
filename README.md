@@ -9,11 +9,11 @@ Custom compiled fonts based on Iosevka font.
 
 All fonts compiled with a full set of weights and slopes and customs enabled by default:
 
-- "ligset-php" -  default ligatures set to PHP
-- "v-asterisk-low" - asterisk vertically centred in a row
-- "v-ampersand-upper-open" - ampersand upper opened version of &
-- "v-dollar-open" - open version of $
-- "cv67" - lower bar slanted version of <= and >= 
+* "ligset-php" -  default ligatures set to PHP
+* "v-asterisk-low" - asterisk vertically centered in a row
+* "v-ampersand-upper-open" - ampersand upper opened version of &amp;
+* "v-dollar-open" - open version of $
+* "cv67" - lower bar slanted version of &lt;= and &gt;=
 
 Fonts compiled with four character's styles:
 
@@ -22,15 +22,14 @@ Fonts compiled with four character's styles:
 3. Lucida Style - **Iosevka VardanPro Lucida Style**
 4. Ubuntu Mono Style - **Iosevka VardanPro Ubuntu Style**
 
-There is also `Light` version of fonts with weight set to 300 by default:
+There is also Light version of fonts with weight set to 300 by default:
 
 1. **Iosevka VardanPro Light**
 2. **Iosevka VardanPro Monaco Light**
 3. **Iosevka VardanPro Lucida Light**
 4. **Iosevka VardanPro Ubuntu Light**
 
-They is very useful being installed as separate fonts in cases, when IDE
-like JetBrains, where the editor does not allow to choose the weight of the font.
+They are very useful being installed as separate fonts in cases when IDE like JetBrains, where the editor does not allow to choose the weight of the font.
 
 ## Custom config
 To see the custom config used for the building of fonts go
