@@ -7,6 +7,13 @@ Custom compiled fonts based on Iosevka font.
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-monaco-light.png)
 ![](https://github.com/varp/VardanPro-Fonts/raw/master/screenshots/iosevka-vardanpro-ubuntu-light.png)
 
+All fonts compiled with a full set of weights and slopes and customs enabled by default:
+
+- "ligset-php" -  default ligatures set to PHP
+- "v-asterisk-low" - asterisk vertically centred in a row
+- "v-ampersand-upper-open" - ampersand upper opened version of &
+- "v-dollar-open" - open version of $
+- "cv67" - lower bar slanted version of <= and >= 
 
 Fonts compiled with four character's styles:
 
@@ -15,26 +22,18 @@ Fonts compiled with four character's styles:
 3. Lucida Style - **Iosevka VardanPro Lucida Style**
 4. Ubuntu Mono Style - **Iosevka VardanPro Ubuntu Style**
 
-All fonts compiled with full set of weights and slopes and customs enabled by default:
-
-- "ligset-php" -  default ligatures set to PHP
-- "v-asterisk-low" - asterisk verticaly centred in row
-- "v-ampersand-upper-open" - ampersand upper opened version of &
-- "v-dollar-open" - open version of $
-- "cv67" - lower bar slanted version of <= and >= 
-
-There are also `Light` version of fonts with weight set to 300 by default:
+There is also `Light` version of fonts with weight set to 300 by default:
 
 1. **Iosevka VardanPro Light**
 2. **Iosevka VardanPro Monaco Light**
 3. **Iosevka VardanPro Lucida Light**
 4. **Iosevka VardanPro Ubuntu Light**
 
-They are very usefull to being installed as separate fonts in caeses when of IDE
-like JetBrains' ones where editor does not allow to choose weight of font.
+They is very useful being installed as separate fonts in cases, when IDE
+like JetBrains, where the editor does not allow to choose the weight of the font.
 
 ## Custom config
-To see the custom config used for building of fonts go
+To see the custom config used for the building of fonts go
 to https://github.com/varp/Iosevka/blob/master/vardanpro-private-build-plans.toml
 
 ## More info
